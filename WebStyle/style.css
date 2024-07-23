@@ -49,6 +49,7 @@ header {
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
+  padding: 1rem 2rem;
 }
 
 .nav-list {
@@ -57,7 +58,7 @@ header {
 }
 
 .nav-item {
-  margin-right: 5rem;
+  margin-right: 3rem;
 }
 
 .nav-item:last-child {
